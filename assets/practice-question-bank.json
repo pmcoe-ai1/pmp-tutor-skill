@@ -1,0 +1,450 @@
+[
+  {
+    "id": "people-001",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A project manager joins a software project mid-execution. Three of the eight team members are openly hostile to the new PM, regularly missing stand-ups and pushing back on every decision. The sponsor has asked the new PM to 'fix this in two weeks.' What is the BEST first action?",
+    "choices": {
+      "A": "Schedule one-on-one meetings with each team member to understand their concerns.",
+      "B": "Escalate to the sponsor that the team is not functioning.",
+      "C": "Reassign the three resisting team members.",
+      "D": "Lead a team-building exercise to reset relationships."
+    },
+    "correct": "A",
+    "rationale": "The PMP exam consistently rewards information-gathering before action, and individual conversations before escalation or reassignment. Option A addresses the root cause (unknown concerns); B abdicates leadership; C is premature and damages team morale; D is a tactic, not a diagnosis. Per PMI's framework, the PM understands stakeholder needs before applying any intervention."
+  },
+  {
+    "id": "people-002",
+    "domain": "people",
+    "difficulty": "easy",
+    "scenario": "Two team members are in conflict over technical direction. Both are subject matter experts; both have strong opinions. The conflict is delaying delivery. What conflict-resolution mode is MOST appropriate?",
+    "choices": {
+      "A": "Avoiding — let them work it out.",
+      "B": "Smoothing — emphasise areas of agreement.",
+      "C": "Compromising — find a middle ground.",
+      "D": "Collaborating — work toward a solution both accept."
+    },
+    "correct": "D",
+    "rationale": "Collaborating (win-win) is the PMI-preferred mode when both parties have valid expertise and stake. Avoiding and Smoothing defer the issue; Compromising leaves both partially unsatisfied (lose-lose-light). Collaborating takes longest but produces the most durable resolution. Per Thomas-Kilmann Conflict Mode Instrument as adopted by PMI."
+  },
+  {
+    "id": "people-003",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A team member's performance has dropped sharply over the past month. Their work is now late and contains errors. They have not raised any issues. What should the project manager do FIRST?",
+    "choices": {
+      "A": "Issue a formal performance warning.",
+      "B": "Reassign their work to other team members.",
+      "C": "Meet with them privately to understand what's changed.",
+      "D": "Escalate to their functional manager."
+    },
+    "correct": "C",
+    "rationale": "Information-gathering before action. A change in performance often reflects a change in circumstances (personal, technical blockers, unclear expectations). PMI's framework wants the PM to understand the cause before applying any consequence or escalation. Formal warning, reassignment, and functional-manager escalation may all be appropriate later — but not as the first step."
+  },
+  {
+    "id": "people-004",
+    "domain": "people",
+    "difficulty": "hard",
+    "scenario": "On a globally-distributed agile team across five time zones, the daily stand-up has become asynchronous (people post written updates in Slack). Quality of updates is dropping; the Scrum Master notices that team members no longer reference each other's work. What should the Scrum Master do?",
+    "choices": {
+      "A": "Mandate a daily synchronous stand-up at a fixed time, accepting that some will be inconvenienced.",
+      "B": "Rotate the synchronous stand-up time weekly so the inconvenience is shared.",
+      "C": "Facilitate a team retrospective on stand-up effectiveness and let the team decide the format.",
+      "D": "Replace stand-ups with weekly written retrospectives."
+    },
+    "correct": "C",
+    "rationale": "The Scrum Master is a servant-leader who facilitates the team's own decision-making, especially on team practices. Options A and B impose a solution before understanding the underlying issue. Option D removes a valuable cadence without diagnosis. Option C lets the team own the format — the PMI framework consistently rewards facilitation over imposition on self-organising teams."
+  },
+  {
+    "id": "people-005",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A senior stakeholder repeatedly bypasses the project manager and goes directly to team members with requests. The team members are confused about priorities. What should the PM do?",
+    "choices": {
+      "A": "Tell the team to refuse requests from this stakeholder going forward.",
+      "B": "Escalate to the project sponsor immediately.",
+      "C": "Have a direct conversation with the stakeholder about the project's communication channels.",
+      "D": "Document each instance and present a pattern in the next steering committee."
+    },
+    "correct": "C",
+    "rationale": "Direct conversation with the source of the issue is the PMI-preferred approach. Refusing requests creates conflict for the team members caught in the middle. Escalating before a direct conversation skips the relationship-building step. Documenting for steering committee is a passive-aggressive escalation. A one-on-one with the stakeholder, framed around shared project success, addresses the issue directly without burning the relationship."
+  },
+  {
+    "id": "people-006",
+    "domain": "people",
+    "difficulty": "easy",
+    "scenario": "A new project team member who joined two weeks ago is struggling. They were hired with strong credentials but seem overwhelmed by the project's technical complexity. They have not asked for help. What is the BEST action?",
+    "choices": {
+      "A": "Pair them with a senior team member for the next sprint.",
+      "B": "Ask their functional manager whether they're the right fit.",
+      "C": "Reduce their workload to easier tasks until they ramp up.",
+      "D": "Wait two more weeks and reassess."
+    },
+    "correct": "A",
+    "rationale": "Mentoring and pairing is a direct, proactive support intervention that respects the team member's autonomy. Option B undermines the team member before giving them support. Option C may be needed but should follow, not precede, an attempt at mentorship. Option D wastes time when the issue is already visible. PMI's framework on team formation emphasises empowering and supporting team members; pairing is the most empowering of the four options."
+  },
+  {
+    "id": "people-007",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "During a retrospective, a team member raises that they feel ignored when they speak up. Several others in the room nod in agreement but do not speak. The Scrum Master observes this. What should the Scrum Master do?",
+    "choices": {
+      "A": "Note the issue and move to the next retrospective topic to keep things on time.",
+      "B": "Acknowledge the observation and facilitate a discussion on team communication norms.",
+      "C": "Speak privately with the team member after the retrospective.",
+      "D": "Ask the team to vote on whether this is a real issue."
+    },
+    "correct": "B",
+    "rationale": "A retrospective exists precisely for this kind of issue. Surfacing it and facilitating the team to address communication norms is the Scrum Master's role. Option A dismisses the concern. Option C makes it a private issue when the team is the affected unit. Option D reduces lived experience to a popularity contest. PMI's framework rewards turning emerging team issues into team conversations."
+  },
+  {
+    "id": "people-008",
+    "domain": "people",
+    "difficulty": "hard",
+    "scenario": "A project manager is told by a sponsor to remove a vendor's contractor from the project because the sponsor 'doesn't like working with them.' The contractor's performance has been adequate; their professional behaviour is professional; no specific complaints have been documented. What is the BEST course of action?",
+    "choices": {
+      "A": "Remove the contractor as instructed — the sponsor has authority.",
+      "B": "Ignore the instruction and continue with the contractor in place.",
+      "C": "Ask the sponsor for specific performance or behaviour concerns that could be addressed.",
+      "D": "Document the conversation and remove the contractor next month."
+    },
+    "correct": "C",
+    "rationale": "The PM has a duty to both the sponsor and to fair treatment of team members. Option A applies authority without due process. Option B is insubordinate. Option D is performative compliance. Option C creates space for the sponsor to articulate a legitimate concern (which may exist) or to reconsider an unsupported instruction. PMI's Code of Ethics emphasises fairness; the People domain emphasises respectful surfacing of issues."
+  },
+  {
+    "id": "people-009",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A high-performing team is going through Tuckman's storming stage. Conflicts are visible. The PM is tempted to intervene. What does Tuckman's model suggest is the RIGHT response?",
+    "choices": {
+      "A": "Intervene firmly to resolve every conflict before it escalates.",
+      "B": "Let the team work through the storming stage with minimal intervention, intervening only when conflicts become destructive.",
+      "C": "Skip directly to norming by issuing team ground rules.",
+      "D": "Reassign the most conflictual team members."
+    },
+    "correct": "B",
+    "rationale": "Tuckman's model (forming, storming, norming, performing, adjourning) treats storming as a necessary, productive phase where teams negotiate roles and norms. Heavy-handed intervention shortcuts this learning. Option A over-controls. Option C skips the work the team needs to do. Option D treats a normal phase as a personnel problem. PMI adopts Tuckman as the team-formation framework; the exam rewards 'let storming happen, intervene on destruction.'"
+  },
+  {
+    "id": "people-010",
+    "domain": "people",
+    "difficulty": "easy",
+    "scenario": "A virtual team meets weekly via video conference. Engagement is low — most team members keep cameras off and rarely speak. The PM wants to improve engagement. What is the BEST starting action?",
+    "choices": {
+      "A": "Mandate cameras on for all meetings.",
+      "B": "Ask the team in a retrospective what would help them engage more.",
+      "C": "Reduce meeting frequency to bi-weekly.",
+      "D": "Replace video conferences with written updates."
+    },
+    "correct": "B",
+    "rationale": "Ask the team. The PM cannot assume the cause of low engagement — it may be meeting timing, content relevance, psychological safety, or just video fatigue. Option A imposes a fix without diagnosis. Options C and D may help, but again without diagnosis are guesses. PMI's framework on virtual teams emphasises asking and adapting to team needs."
+  },
+  {
+    "id": "people-011",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A project manager is mentoring a junior PM running their first project. The junior PM faces a difficult stakeholder situation. The senior PM has seen similar situations before and knows what would work. What is the BEST mentoring approach?",
+    "choices": {
+      "A": "Tell the junior PM exactly what to do, step by step.",
+      "B": "Solve the stakeholder issue for the junior PM to demonstrate the approach.",
+      "C": "Ask the junior PM what options they're considering and discuss the trade-offs.",
+      "D": "Let the junior PM struggle without guidance — failure is the best teacher."
+    },
+    "correct": "C",
+    "rationale": "Coaching, not directing. Option A takes away the learning opportunity. Option B undermines the junior PM's authority with the stakeholder. Option D abandons the mentee. Option C is the Socratic coaching pattern PMI's framework rewards — surface the mentee's thinking, then guide it. PMP exam questions on mentoring consistently reward 'help them think' over 'tell them what to do.'"
+  },
+  {
+    "id": "people-012",
+    "domain": "people",
+    "difficulty": "hard",
+    "scenario": "A project has finished. The team is being released back to their functional managers. A team member who contributed strongly throughout the project is being assigned to a less challenging project next. The PM has no authority over staffing. What should the PM do?",
+    "choices": {
+      "A": "Stay out of it — staffing is the functional manager's call.",
+      "B": "Write a recommendation to the functional manager describing the team member's contribution and growth.",
+      "C": "Offer the team member a position on the PM's next project, if there is one.",
+      "D": "Tell the team member to push back on the assignment."
+    },
+    "correct": "B",
+    "rationale": "PMs have ethical responsibility for the team members they led. A specific, factual recommendation to the functional manager is constructive influence without overreach. Option A is passive. Option C may not be feasible and creates loyalty conflicts. Option D puts the team member in conflict with their manager. PMI's framework treats team-member growth as a PM responsibility extending past the project's close."
+  },
+  {
+    "id": "people-013",
+    "domain": "people",
+    "difficulty": "medium",
+    "scenario": "A team is preparing for a stakeholder demo. A junior team member asks the PM whether they should present their own work. The PM knows the team member is nervous but has done excellent work. What is the BEST response?",
+    "choices": {
+      "A": "Present the work yourself to make sure it goes well.",
+      "B": "Have a senior team member present on the junior's behalf.",
+      "C": "Encourage the junior team member to present, offering to prep them and stand by during the demo.",
+      "D": "Let the junior team member decide without input."
+    },
+    "correct": "C",
+    "rationale": "Empower with support. Option A protects the demo at the cost of the team member's growth. Option B sidesteps the growth opportunity. Option D leaves the junior team member without the encouragement they may need to say yes. Option C empowers with scaffolding — exactly what the People-domain task 'empower team members' is testing."
+  },
+  {
+    "id": "process-001",
+    "domain": "process",
+    "difficulty": "hard",
+    "scenario": "A project has Earned Value (EV) of $80,000, Actual Cost (AC) of $100,000, and Planned Value (PV) of $90,000. The Cost Performance Index (CPI) is stable at this value through the project. The Budget at Completion (BAC) is $500,000. What is the Estimate at Completion (EAC) using the standard CPI-based formula?",
+    "choices": {
+      "A": "$400,000",
+      "B": "$500,000",
+      "C": "$555,555",
+      "D": "$625,000"
+    },
+    "correct": "D",
+    "rationale": "CPI = EV / AC = 80,000 / 100,000 = 0.80. The EAC formula assuming current CPI continues: EAC = BAC / CPI = 500,000 / 0.80 = $625,000. Option A is BAC × CPI (wrong direction). B is BAC itself. C uses a different formula (BAC × something else). The PMP exam expects fluency with this formula and the inverse-direction trap — when CPI is below 1.0, EAC is greater than BAC."
+  },
+  {
+    "id": "process-002",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "During sprint planning, the team commits to 40 story points. By the end of the sprint, they have completed 28 points and identify three stories that will not finish. The Product Owner asks the Scrum Master to add three more stories to the sprint to compensate. What should the Scrum Master do?",
+    "choices": {
+      "A": "Add the three stories as requested — the team has the capacity.",
+      "B": "Refuse and remind the Product Owner that the sprint scope is fixed.",
+      "C": "Facilitate a discussion between the Product Owner and the Development Team.",
+      "D": "Move the unfinished stories to the next sprint without discussion."
+    },
+    "correct": "C",
+    "rationale": "The Scrum Master facilitates; only the Development Team can change sprint scope, and they do so collaboratively with the Product Owner. Option A lets the Product Owner unilaterally change scope — wrong. B is rigid and skips conversation. D pre-empts the team's input. C is the servant-leader approach the PMP exam tests on agile-domain questions."
+  },
+  {
+    "id": "process-003",
+    "domain": "process",
+    "difficulty": "easy",
+    "scenario": "A project's Schedule Performance Index (SPI) is 0.85. What does this tell you?",
+    "choices": {
+      "A": "The project is 15% over budget.",
+      "B": "The project is 15% under budget.",
+      "C": "The project is delivering work 15% slower than planned.",
+      "D": "The project is delivering work 15% faster than planned."
+    },
+    "correct": "C",
+    "rationale": "SPI = EV / PV. SPI < 1.0 means earned value is less than planned value — the project is behind schedule. Specifically 15% behind. SPI does not measure cost (that's CPI), so options A and B are wrong. Option D inverts the direction. The exam expects you to read CPI and SPI both directionally (above/below 1.0) and as percentages."
+  },
+  {
+    "id": "process-004",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A change request would add scope worth two weeks of additional work. The customer wants the original delivery date held. The team is already at full utilisation. What is the BEST FIRST step for the project manager?",
+    "choices": {
+      "A": "Reject the change request — there is no capacity.",
+      "B": "Approve the change request and absorb the extra work via overtime.",
+      "C": "Run a change-impact analysis on scope, schedule, cost, and risk.",
+      "D": "Add resources and pass the cost back to the customer."
+    },
+    "correct": "C",
+    "rationale": "Always analyse impact before deciding. Option A rejects without analysis. Option B commits to overtime as a tactic before understanding what's needed. Option D commits to a specific solution before exploring alternatives. Option C produces the information the Change Control Board needs to make an informed decision. The Process domain consistently rewards 'analyse impact, then take it to the CCB' as the canonical change-management flow."
+  },
+  {
+    "id": "process-005",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A team uses Kanban to manage a continuous-flow operations project. The PM notices that work items consistently accumulate in the 'Code Review' column. Cycle time has been increasing. What should the PM do?",
+    "choices": {
+      "A": "Add more people to the team to clear the backlog.",
+      "B": "Lower the Work-In-Progress (WIP) limit on the 'Code Review' column.",
+      "C": "Investigate WHY items are accumulating in Code Review, then act.",
+      "D": "Switch from Kanban to Scrum to add structure."
+    },
+    "correct": "C",
+    "rationale": "Diagnose the bottleneck. Code Review accumulation could be a capacity issue, a skill issue, a tool issue, an unclear-acceptance-criteria issue, or a single-reviewer-bottleneck. The right WIP-limit adjustment depends on the cause. Option A throws people at a symptom. Option B reduces WIP limit without knowing why. Option D switches frameworks before understanding. Kanban's principle is 'visualise, then act on data.'"
+  },
+  {
+    "id": "process-006",
+    "domain": "process",
+    "difficulty": "hard",
+    "scenario": "A risk register shows three risks with the same Expected Monetary Value (EMV): each has 30% probability of a $100,000 impact, so EMV is $30,000. The project budget can absorb only one mitigation. Which risk should be addressed first?",
+    "choices": {
+      "A": "All three equally — the EMV is identical.",
+      "B": "The risk with the highest probability.",
+      "C": "The risk with the largest single impact.",
+      "D": "Insufficient information — need to know the timing and the cost of each mitigation."
+    },
+    "correct": "D",
+    "rationale": "EMV identifies equivalent expected value but says nothing about WHEN the risk could materialise, the cost of mitigation, or whether one risk's mitigation reduces or amplifies the others. Project risk decisions are made with full context, not EMV alone. Option A treats EMV as decisive, which it isn't on its own. Options B and C apply heuristics without checking the project context. PMI's framework treats EMV as one input among several."
+  },
+  {
+    "id": "process-007",
+    "domain": "process",
+    "difficulty": "easy",
+    "scenario": "A project's WBS (work breakdown structure) is being defined. A team member proposes including a 100-line deliverable as 'check email.' What is the issue?",
+    "choices": {
+      "A": "WBS entries must be in noun form, not verb form like 'check email.'",
+      "B": "'Check email' is an ongoing operation, not a project deliverable.",
+      "C": "WBS items must have a numeric ID.",
+      "D": "WBS items must have a defined budget."
+    },
+    "correct": "B",
+    "rationale": "The WBS decomposes the project's scope into deliverables. Operational activities (run a daily standup, check email, attend status meetings) are not deliverables — they are work supporting deliverables. Option A is wrong; WBS items can use either verb or noun form per PMI guidance. Options C and D are also incorrect — neither numeric ID nor budget is structurally required at every WBS level."
+  },
+  {
+    "id": "process-008",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A procurement is being structured for a project. The work is well-defined, the deliverable is unambiguous, and the buyer wants to cap their cost exposure. What contract type is BEST?",
+    "choices": {
+      "A": "Cost Plus Fixed Fee (CPFF)",
+      "B": "Time and Materials (T&M)",
+      "C": "Firm Fixed Price (FFP)",
+      "D": "Cost Plus Incentive Fee (CPIF)"
+    },
+    "correct": "C",
+    "rationale": "FFP caps buyer cost exposure and transfers cost risk to the seller — appropriate when the work is well-defined enough for sellers to price accurately. CPFF and CPIF transfer cost risk to the buyer (cost is reimbursed). T&M is for unclear scope where work is paid by the hour. The PMP exam consistently maps contract type to scope-clarity and risk-tolerance."
+  },
+  {
+    "id": "process-009",
+    "domain": "process",
+    "difficulty": "hard",
+    "scenario": "A quality control inspection finds that 5% of deliverables are defective. The team manager argues that this is well within the 95% threshold and no action is needed. What does PMI's quality framework suggest?",
+    "choices": {
+      "A": "Agree — 5% defect rate is within tolerance, no action needed.",
+      "B": "Tighten inspection — find more defects.",
+      "C": "Investigate the root cause of the 5% defects and address it.",
+      "D": "Reduce the deliverable acceptance threshold to 99%."
+    },
+    "correct": "C",
+    "rationale": "PMI's quality framework draws from Deming and Crosby — quality is about prevention, not inspection. A 5% defect rate is an opportunity to investigate root cause and improve the process. Option A is the inspection-mindset trap. Option B reacts to defects without prevention. Option D raises the bar without understanding what's causing existing defects. The PMP exam rewards continuous-improvement thinking."
+  },
+  {
+    "id": "process-010",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A project's network diagram has three paths: A→B→C (15 days), A→D→C (18 days), A→E→C (12 days). What is the critical path and what is its float?",
+    "choices": {
+      "A": "A→B→C with float of 3 days.",
+      "B": "A→D→C with float of 0 days.",
+      "C": "A→E→C with float of 6 days.",
+      "D": "All three paths are critical."
+    },
+    "correct": "B",
+    "rationale": "The critical path is the LONGEST path through the network (18 days here, A→D→C). It always has float of 0 by definition — any delay on the critical path delays the project. The other paths have positive float (3 and 6 days respectively). The exam tests this fundamental: longest path = critical path = zero float."
+  },
+  {
+    "id": "process-011",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A team estimates a task as 4 days optimistic, 8 days most likely, and 18 days pessimistic. What is the PERT (three-point) estimate?",
+    "choices": {
+      "A": "8 days",
+      "B": "10 days",
+      "C": "9 days",
+      "D": "12 days"
+    },
+    "correct": "C",
+    "rationale": "Beta PERT formula: (Optimistic + 4 × Most Likely + Pessimistic) / 6 = (4 + 32 + 18) / 6 = 54 / 6 = 9 days. Option A is the most-likely value alone. Option B is the simple average. Option D is the Triangular distribution (O+M+P)/3, which the exam sometimes asks about but is distinct from PERT. The exam expects fluency with both Triangular and PERT formulas."
+  },
+  {
+    "id": "process-012",
+    "domain": "process",
+    "difficulty": "easy",
+    "scenario": "An agile team finishes a sprint and holds a retrospective. The Product Owner asks to skip the retrospective to save time. What should the Scrum Master do?",
+    "choices": {
+      "A": "Skip it once if the team agrees.",
+      "B": "Hold the retrospective as scheduled — it's a core Scrum event.",
+      "C": "Replace it with a written survey.",
+      "D": "Postpone it to next sprint."
+    },
+    "correct": "B",
+    "rationale": "Sprint retrospective is one of Scrum's mandatory events. Skipping or replacing it shortcuts the team's continuous-improvement loop. Option A defers to the wrong authority (PO doesn't decide team practices). Option C is a downgrade of synchronous learning. Option D defers improvement to a future that may not come. The exam treats Scrum events as load-bearing — not optional."
+  },
+  {
+    "id": "process-013",
+    "domain": "process",
+    "difficulty": "hard",
+    "scenario": "A project is half complete. AC = $200,000, EV = $180,000, BAC = $400,000. The team has hit the project's pace stride; performance is expected to stabilise at current efficiency for the remainder. What is the EAC?",
+    "choices": {
+      "A": "$400,000",
+      "B": "$420,000",
+      "C": "$444,444",
+      "D": "$500,000"
+    },
+    "correct": "C",
+    "rationale": "CPI = EV / AC = 180,000 / 200,000 = 0.90. EAC (assuming CPI continues) = BAC / CPI = 400,000 / 0.90 = $444,444. Option A ignores the cost overrun. Option B is AC + (BAC - EV), a different formula that assumes remaining work performs at planned rate, not current rate. The exam expects you to read the scenario's signal ('performance stabilised') and pick the right formula."
+  },
+  {
+    "id": "process-014",
+    "domain": "process",
+    "difficulty": "medium",
+    "scenario": "A team is using a Kanban board with WIP limits. The 'In Progress' column has a WIP limit of 4. There are currently 4 items in 'In Progress.' A new high-priority item arrives from the Product Owner. What is the BEST action?",
+    "choices": {
+      "A": "Add the new item to 'In Progress' — high priority overrides WIP limits.",
+      "B": "Wait until an item completes and exits 'In Progress' before pulling the new one.",
+      "C": "Move one of the four items back to 'Backlog' to make room.",
+      "D": "Increase the WIP limit to 5."
+    },
+    "correct": "B",
+    "rationale": "The WIP limit is the constraint that drives flow. Option A breaks the WIP discipline. Option C may be appropriate but only after Product Owner discussion about which item is now less important. Option D treats WIP limits as adjustable on demand, defeating their purpose. Option B respects the system: pull when capacity opens. Kanban's effectiveness depends on holding WIP limits."
+  },
+  {
+    "id": "process-015",
+    "domain": "process",
+    "difficulty": "easy",
+    "scenario": "A project closes successfully. What artefact should be archived for future projects to reference?",
+    "choices": {
+      "A": "Final budget variance only.",
+      "B": "Lessons learned register, capturing what worked and what didn't.",
+      "C": "Team performance reviews.",
+      "D": "Stakeholder satisfaction survey only."
+    },
+    "correct": "B",
+    "rationale": "Lessons learned is the canonical knowledge-transfer artefact at project close — captures both successes and failures for future projects. Option A is one input. Option C is HR, not project knowledge. Option D is one input. The Process domain task 'ensure knowledge transfer for project continuity' has lessons learned as its primary mechanism."
+  },
+  {
+    "id": "business-001",
+    "domain": "business",
+    "difficulty": "medium",
+    "scenario": "Mid-project, the organisation's strategic priorities shift. The CEO announces a new direction that makes the current project's deliverables less valuable than originally planned. What is the BEST first step for the project manager?",
+    "choices": {
+      "A": "Continue execution until told otherwise — strategic shifts are above PM pay grade.",
+      "B": "Halt the project immediately and await direction.",
+      "C": "Re-validate the business case with the sponsor.",
+      "D": "Begin reassigning resources to other initiatives."
+    },
+    "correct": "C",
+    "rationale": "The Business Environment domain emphasises ongoing business-case validation, especially when strategic context changes. A is passive; B is rash; D is premature. The PM works with the sponsor to re-confirm whether the project still produces value under the new direction, and if not, formally proposes scope change or termination through the change-control process."
+  },
+  {
+    "id": "business-002",
+    "domain": "business",
+    "difficulty": "hard",
+    "scenario": "A project will produce a deliverable subject to a new regulatory requirement that takes effect next year. The cost of compliance is not in the original budget. What should the project manager do?",
+    "choices": {
+      "A": "Defer compliance work until next year, after the project closes.",
+      "B": "Submit a change request to add compliance scope to the project.",
+      "C": "Quietly absorb the compliance work without notifying stakeholders.",
+      "D": "Cancel the project — compliance changes scope too much."
+    },
+    "correct": "B",
+    "rationale": "Compliance with applicable regulation is non-negotiable. Option A defers a known requirement (risk to the deliverable's usability post-launch). Option C is unethical and out of scope. Option D over-reacts. Option B is the correct path: submit a formal change request through Change Control to add the compliance scope, with the cost and schedule impact assessed and approved before work begins."
+  },
+  {
+    "id": "business-003",
+    "domain": "business",
+    "difficulty": "easy",
+    "scenario": "A project's sponsor asks for a one-page weekly status. The PM has been sending detailed five-page reports. What should the PM do?",
+    "choices": {
+      "A": "Continue with five pages — detailed reports are best practice.",
+      "B": "Adjust to one page, matching the sponsor's stated preference.",
+      "C": "Send both versions weekly.",
+      "D": "Push back — explain why five pages are necessary."
+    },
+    "correct": "B",
+    "rationale": "Stakeholder engagement, including the sponsor, requires adapting communication to their stated needs. Option A ignores the sponsor's preference. Option C is wasteful. Option D presumes the PM knows the sponsor's information needs better than the sponsor does. PMI's framework on stakeholder engagement emphasises tailoring communication to each stakeholder's information needs and decision-making style."
+  },
+  {
+    "id": "business-004",
+    "domain": "business",
+    "difficulty": "medium",
+    "scenario": "A project's benefits realisation is measured 12 months after delivery. The expected benefits have not materialised. What should the organisation do?",
+    "choices": {
+      "A": "Blame the project team for poor execution.",
+      "B": "Conduct a benefits realisation review to understand the gap — execution, market, or both.",
+      "C": "Accept that benefits forecasting is imprecise and move on.",
+      "D": "Forecast new benefits to justify the project retrospectively."
+    },
+    "correct": "B",
+    "rationale": "Benefits realisation review is the standard PMI practice when expected benefits diverge from actual. Option A assumes the cause without diagnosis. Option C abandons learning. Option D is unethical. Option B is the disciplined approach: understand what happened, feed learnings into future business cases. PMI's Business Environment domain explicitly tests benefits realisation as an organisational practice, not just a project artefact."
+  }
+]

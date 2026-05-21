@@ -1,0 +1,42 @@
+Multi-license repository
+========================
+
+This repository contains files under two licenses. See NOTICE for the full
+attribution statement.
+
+1. Markdown content (SKILL.md, README.md, files under references/, files
+   under evals/) — Creative Commons Attribution-ShareAlike 4.0 International
+   (CC BY-SA 4.0). Full text:
+   https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+2. Python code (files under assets/ with extension .py) and JSON data files
+   that accompany the code (files under assets/ with extension .json) —
+   Apache License, Version 2.0. Full text:
+   https://www.apache.org/licenses/LICENSE-2.0
+
+Each file's header SHOULD indicate which license applies. If a file's header
+is absent or ambiguous, the license is determined by file type per the above:
+Markdown -> CC BY-SA 4.0; Python / JSON -> Apache 2.0.
+
+Apache License 2.0 notice for the Python and JSON files:
+
+    Copyright 2026 PMCOE LLC
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use these files except in compliance with the License.
+    You may obtain a copy of the License at
+
+        https://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied. See the License for the specific language governing
+    permissions and limitations under the License.
+
+CC BY-SA 4.0 notice for the Markdown files:
+
+    PMCOE PMP Tutor reference content Copyright 2026 PMCOE LLC.
+    Licensed under Creative Commons Attribution-ShareAlike 4.0
+    International. To view a copy of this license, visit
+    https://creativecommons.org/licenses/by-sa/4.0/

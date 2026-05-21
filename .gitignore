@@ -1,0 +1,7 @@
+.publication-plan-internal.md
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/

@@ -1,0 +1,45 @@
+PMCOE PMP Tutor — Claude Agent Skill
+Copyright 2026 PMCOE LLC (https://www.pm-coe.com/)
+
+The Markdown files (SKILL.md, README.md, files in references/ and evals/)
+are licensed under Creative Commons Attribution-ShareAlike 4.0 International
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+The Python and JSON files in assets/ are licensed under Apache License 2.0
+(https://www.apache.org/licenses/LICENSE-2.0).
+
+See LICENSE for full terms.
+
+Trademark and affiliation disclosures
+-------------------------------------
+
+PMCOE LLC makes no claim of being part of the Project Management Institute (PMI).
+PMCOE is a PMI Authorized Training Partner — verifiable at
+https://www.pmi.org/business-solutions/authorized-training-partners
+
+The following are trademarks of the Project Management Institute, Inc., and
+appear in this repository solely as references:
+
+- PMP (Project Management Professional)
+- CAPM (Certified Associate in Project Management)
+- PMI-ACP (Agile Certified Practitioner)
+- PMI-CP (PMI Construction Professional)
+- PMBOK
+- Talent Triangle
+- PMI Exam Content Outline
+
+This repository does not include any PMI copyrighted material. References to
+PMI documents (Exam Content Outline, PMP Handbook, PMBOK Guide) link out to
+PMI's official PDFs at pmi.org.
+
+VA WEAMS facility code 46P05243 is PMCOE LLC's federal record number,
+verifiable at https://inquiry.vba.va.gov/weamspub/
+
+Question bank
+-------------
+
+The 32 scenario questions in assets/practice-question-bank.json are
+PMCOE-authored composites. They are not drawn from PMI's own practice tests
+or from any other copyrighted question bank. Each scenario tests judgment
+patterns aligned with PMI's published framework (e.g., Tuckman team-formation
+stages, Thomas-Kilmann conflict modes, Earned Value Management formulas).
