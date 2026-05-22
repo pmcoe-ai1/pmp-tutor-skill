@@ -11,13 +11,8 @@ When a student is choosing between PMP and CAPM, load this file.
 | Education hours | 35 contact hours | 23 hours of project management education |
 | Exam length | 180 questions / 230 minutes | 150 questions / 180 minutes |
 | Predictive / agile mix | ~50% / ~50% | ~65% / ~35% (verify current PMI ECO) |
-| PMI exam fee — member | $425 [verify on pmi.org] | $225 [verify on pmi.org] |
-| PMI exam fee — non-member (US, post Aug 2026 increase) | $675 [verify on pmi.org] | $300 [verify on pmi.org] |
-| PMI member annual fee | $129/year + $10 one-time application | same |
-| Re-exam fee (member / non-member) | $275 / $375 [verify] | $200 / $150 [verify] |
-
-**Fee source caveat (21 May 2026):** The fee numbers above came from aggregated third-party training-provider blogs as of 21 May 2026. PMI's own certification page returned HTTP 403 to the verification crawler at that time. Always quote pmi.org's current listed fee to a student; do not lock these numbers into a marketing claim.
-| PMI annual membership | $129 | $129 |
+| PMI exam fee | Direct to pmi.org/certifications/project-management-pmp for current pricing | Direct to pmi.org/certifications/certified-associate-capm |
+| PMI annual membership | Membership discounts the exam fee — current rate on pmi.org/membership | Same |
 | PDU renewal | 60 PDUs every 3 years | 15 PDUs every 3 years |
 | PMI salary survey uplift | 25% median (per PMI Earning Power) | 15% (typical industry assumption — verify current PMI data) |
 | Best for | 3+ years of project experience | Entry-level, career-pivoters, business-side roles |
@@ -49,7 +44,7 @@ When a student is choosing between PMP and CAPM, load this file.
 A common pattern for career-pivoters: CAPM at year 1, PMP at year 4 (when experience requirement is met).
 
 - Pro: builds credential signal early; demonstrates progression to recruiters.
-- Con: pays for both exams ($225 + $425 = $650 in PMI fees plus training).
+- Con: pays for both exams (two PMI fees plus two rounds of training).
 - Pro: 23 hours of CAPM contact hours can be applied toward the 35-hour PMP requirement at PMI's discretion (verify with PMI before assuming this).
 
 ## What the skill should say
